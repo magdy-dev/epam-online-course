@@ -12,13 +12,12 @@ public class Question18 {public static void main(String[] args) {
 
     while (m <=n){
         System.out.println(m +":");
-        for (i:m-1){
-            if (m % 1==0){
+        for (m - 1);
+            if (m % 1 == 0) {
                 System.out.println(i);
-                System.out.println(m=m+1);
+                System.out.println(m = m + 1);
 
             }
-        }
     }
 }
 }

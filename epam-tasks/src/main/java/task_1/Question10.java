@@ -16,16 +16,23 @@ double a,b,x,y,z;
         y=scanner.nextDouble();
         z=scanner.nextDouble();
 
-        if ( x < a && y < b)||( x < b && y < a) {
+        if ( x < a && y < b){
             System.out.println("true");
         }
-        else if (x<a && z<b ) || ( x < b &&  z < a ) {
+        else if ( x < b && y < a) {
+            System.out.println("true");
+
+      if  (x<a && z<b ){
             System.out.println("true");
         }
-else if ( y < a && z < b) || ( y < b || z < a) {
+else if ( y < a && z < b) {
 
-            System.out.println("True")
+          System.out.println("True");
+      }
+         else if ( x < b &&  z < a ){
+          System.out.println("True");
 
+      }
 else
             System.out.println("False");
 
