@@ -1,8 +1,8 @@
-package Try;
+package task_1;
 
 import java.util.Scanner;
 
-public class try10 {
+public class Question10 {
 
     public static void main(String[] args){
 double a,b,x,y,z;

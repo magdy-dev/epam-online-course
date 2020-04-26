@@ -1,7 +1,7 @@
-package Try;
+package task_1;
 import java.util.Scanner;
 
-public class Tray6 {
+public class Question6 {
 
     static double area(int x1, int y1, int x2, int y2,
                        int x3, int y3)

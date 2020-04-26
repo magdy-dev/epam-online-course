@@ -1,8 +1,8 @@
-package Try;
+package task_1;
 
 import java.util.Scanner;
 
-public class try18 {public static void main(String[] args) {
+public class Question18 {public static void main(String[] args) {
 
     int m,n,i = 0;
     Scanner scanner=new Scanner(System.in);

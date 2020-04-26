@@ -1,8 +1,8 @@
-package Try;
+package task_1;
 
 import java.util.Scanner;
 
-public class try5 {
+public class Question5 {
     public static <n> void main(String[] args) {
 
 

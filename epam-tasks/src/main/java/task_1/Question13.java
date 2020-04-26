@@ -1,6 +1,6 @@
-package Try;
+package task_1;
 
-public class try13 {
+public class Question13 {
     static int Square (int n){
 
         int l, k, m;
