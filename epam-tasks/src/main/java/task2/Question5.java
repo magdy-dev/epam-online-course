@@ -1,5 +1,5 @@
 package task2;
-
+//Даны целые числа а1 ,а2 ,..., аn . Вывести на печать только те числа, для которых аi > i.
 import java.util.Scanner;
 
 public class Question5 {

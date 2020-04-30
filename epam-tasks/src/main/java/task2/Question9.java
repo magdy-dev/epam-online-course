@@ -11,7 +11,8 @@ public class Question9 {  static int mostFrequent(int arr[], int n)
 
     int max_count = 1, res = arr[0];
     int curr_count = 1;
-
+//В массиве целых чисел с количеством элементов n найти наиболее часто встречающееся число. Если таких
+//чисел несколько, то определить наименьшее из них.
     for (int i = 1; i < n; i++)
     {
         if (arr[i] == arr[i - 1])

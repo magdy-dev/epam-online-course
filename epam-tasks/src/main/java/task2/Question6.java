@@ -2,7 +2,8 @@ package task2;
 
 import java.util.Random;
 import java.util.Scanner;
-
+//Задана последовательность N вещественных чисел. Вычислить сумму чисел, порядковые номера которых
+//являются простыми числами
 public class Question6 {
     public static <n> void main(String[] args) {
 
