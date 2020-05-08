@@ -34,5 +34,5 @@ public class Question12 {static void printDiagonalSums(int [][]mat, int n)
     }
 }
 
-        }
+
 

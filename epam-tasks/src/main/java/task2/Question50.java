@@ -9,7 +9,7 @@ public class Question50 {
             s = s + n % 10;
             n = n / 10;
             n++;
-    }
+        }
         int sum;
         int s;
         sum= s;

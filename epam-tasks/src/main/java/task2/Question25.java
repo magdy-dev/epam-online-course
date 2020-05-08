@@ -12,7 +12,6 @@ public class Question25 {
 
         for (int i = size-2; i >= 0; i--)
         {
-
             int temp = arr[i];
 
             arr[i] = max_from_right;
